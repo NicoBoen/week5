@@ -1,0 +1,6 @@
+framework module Pods_simpleChating {
+  umbrella header "Pods-simpleChating-umbrella.h"
+
+  export *
+  module * { export * }
+}
